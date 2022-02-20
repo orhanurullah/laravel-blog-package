@@ -1,0 +1,19 @@
+{
+    "name": "orhanurullah/blog",
+    "description": "Özel blog paketim",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "orhanurullah",
+            "email": "orhann.1512@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Orhanurullah\\Blog\\": "src"
+        }
+    }
+}
